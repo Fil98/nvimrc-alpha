@@ -1,0 +1,1 @@
+/home/fil/ginit.vim
