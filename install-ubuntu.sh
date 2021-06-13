@@ -1,7 +1,7 @@
 #!/bin/sh
 #install
   
-  sudo apt-get install curl git python yarn nodejs xclip neovim ruby python3-pip exuberant-ctags 
+  sudo apt-get install curl git python yarn nodejs xclip neovim ruby python3-pip exuberant-ctags global
   sudo pip3 install neovim
 
 #create folders
